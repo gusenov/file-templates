@@ -1,4 +1,4 @@
-# Templates for commonly-used document types
+# File Templates
 
 If you often create documents based on the same content, you might benefit from using file templates.
 
