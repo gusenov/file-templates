@@ -1,0 +1,10 @@
+/*********************************************************************
+This ensures that all elements are always sized in this more intuitive way.
+See http://learnlayout.com/box-sizing.html for additional details.
+*********************************************************************/
+* {
+ -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+}
+
